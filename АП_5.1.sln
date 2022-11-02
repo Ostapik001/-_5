@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "АП_5.1", "АП_5.1.vcxproj", "{4E98B50E-C7FF-45BF-A278-BC0F79928182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Debug|x64.ActiveCfg = Debug|x64
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Debug|x64.Build.0 = Debug|x64
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Debug|x86.Build.0 = Debug|Win32
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Release|x64.ActiveCfg = Release|x64
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Release|x64.Build.0 = Release|x64
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Release|x86.ActiveCfg = Release|Win32
+		{4E98B50E-C7FF-45BF-A278-BC0F79928182}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B6C6E1-0FB4-47AE-84A3-15970055514E}
+	EndGlobalSection
+EndGlobal
